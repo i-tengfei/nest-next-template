@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "**/node_modules": true,
+    "dist": true
+  },
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+}
